@@ -1,4 +1,3 @@
-# pre-entrega-automation-testing-miguel-cabrera
 # Pre-entrega: Automation Testing con Selenium y Pytest
 ## Tecnologías
 - Python 3.10+
@@ -6,7 +5,7 @@
 - Pytest
 - pytest-html (reporte HTML)
 - Git y GitHub
-- Google Chrome/Chromium
+- Google Chrome/Chromium o Firefox
 
 ## Estructura
 ```text
@@ -54,4 +53,4 @@ Cada test crea y cierra su propia instancia del navegador (fixture de alcance `f
 - `reports/logs/execution.log`: logs de los tests y errores.
 
 ## Observaciones
-El proyecto requiere conexión a Internet para acceder a SauceDemo. Y tener instalado Firefox.
+El proyecto requiere conexión a Internet para acceder a SauceDemo. Y tener instalado Firefox, Google Chrome.
